@@ -33,7 +33,7 @@ console.log(myArray[2]); // days.
 
 //FUNCTIONS
 
-function getName() {
+function getMessage() {
   console.log("i just completed my DAY 2 projections, hurray!");
 }
-getName();
+getMessage(); // calling the function getMessage prints i just completed my DAY 2 projections, hurray! to the console.
